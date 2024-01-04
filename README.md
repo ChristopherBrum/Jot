@@ -1,1 +1,6 @@
-# notes_fullstack_v2
+# Jot
+
+A fullstack application for keeping track of your day-to-day errands.
+
+Frontend: React/JavaScript
+Backend: Node, Express
